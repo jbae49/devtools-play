@@ -10,7 +10,29 @@ Want to try out sth like
   - if i want to make some comments about a certain protocol one might want to know whether i really have used it or not
   
   
-- mev...
+- mev
+
+
+- `cl.py` and `retry.py` is for 
+    * downloading an entire NFT collection (around 9k images) from IPFS and uploading to google drive 
+
+
+- paymesol 
+    * ethereum
+    * solana
+
+
+A Crypto Paycheck App
+- with a simplest UI
+- just for my boss so that he doesn't have to care when to send a paycheck 
+    - automatically by using Chainlink Keepers
+
+- ETH or SOL 
+
+
+
+
+How long will it take to build a crypto paycheck app on solana with no knowledge on solana nor Rust
 
 
 ---
