@@ -1,6 +1,5 @@
-### What's all about those dev tools 
 
-- `cl.py` and `retry.py` 
+`cl.py` and `retry.py` 
     * downloading an entire NFT collection (around 9k images) from IPFS and uploading to google drive 
 
 
@@ -21,6 +20,7 @@ Want to try out sth like
     * solana
 
 
+For fun want to building sth like 
 A Crypto Paycheck App
 - with a simplest UI
 - just for my boss so that he doesn't have to care when to send a paycheck 
@@ -36,4 +36,4 @@ How long will it take to build a crypto paycheck app on solana with no knowledge
 
 ---
 
-the week of Jun 27: quicknode.com 
+the week of Jun 27: quicknode.com was.. meh should I use it? it's cool but why not other platforms?
