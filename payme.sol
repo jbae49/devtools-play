@@ -19,8 +19,8 @@ contract FactorialPaycheck {
 
     constructor(uint _interval) {
         owner = payable(msg.sender);
-        internMonthlySalaryInUSD = 10;
-        fulltimeMonthlySalaryInUSD = 50;
+        internMonthlySalaryInUSD = 2000;
+        fulltimeMonthlySalaryInUSD = 5000;
         interval = _interval;
         lastPaymentTimeStamp = block.timestamp;
     }
