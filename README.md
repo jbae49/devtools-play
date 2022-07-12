@@ -1,5 +1,8 @@
 ### What's all about those dev tools 
 
+- `cl.py` and `retry.py` 
+    * downloading an entire NFT collection (around 9k images) from IPFS and uploading to google drive 
+
 
 Want to try out sth like 
 - get nft info given the wallet address 
@@ -11,10 +14,6 @@ Want to try out sth like
   
   
 - mev
-
-
-- `cl.py` and `retry.py` is for 
-    * downloading an entire NFT collection (around 9k images) from IPFS and uploading to google drive 
 
 
 - paymesol 
