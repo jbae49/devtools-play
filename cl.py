@@ -11,7 +11,7 @@ from retry import retry
 gauth = GoogleAuth()
 drive = GoogleDrive(gauth)
 
-gdrive_id = "1sAxlGG8mDqctnHmNm0i78AogRjIjpe9q"
+gdrive_id = # Put your id
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
