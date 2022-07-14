@@ -31,7 +31,6 @@ A Crypto Paycheck App
 
 
 
-How long will it take to build a crypto paycheck app on solana with no knowledge on solana nor Rust
 
 
 ---
